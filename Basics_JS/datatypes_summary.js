@@ -36,4 +36,25 @@ let myObj = {
 // console.log(typeof myFunc);
 // console.log(typeof id2);
 
-console.table([score, score2, id, id2, largeNumber])
+// console.table([score, score2, id, id2, largeNumber])
+
+//Stack (Primitive) and Heap(Non-Primitve)
+// let name = "HelloCode"
+// let name2 = name
+// name2 = "HelloAgainCode"
+// console.log(name);
+// console.log(name2);
+
+let user1 = {
+    email: "ashmit@gmail.com",
+    upiId: "ashmit@ybl"
+}
+
+let user2 = user1
+
+// console.log(user2);
+user2.email = "ashmitshukla18@gmail.com"
+console.log(user1);
+console.log(user2);
+
+ 
