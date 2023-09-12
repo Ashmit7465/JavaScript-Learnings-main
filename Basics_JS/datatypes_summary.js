@@ -28,9 +28,9 @@ let myObj = {
     age: 20
 }
 
-const myFunc = function(){
-    console.log("Hello World");
-}
+// const myFunc = function(){
+//     console.log("Hello World");
+// }
 
 // console.log(typeof largeNumber);
 // console.log(typeof myFunc);
