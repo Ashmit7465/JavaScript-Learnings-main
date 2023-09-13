@@ -18,7 +18,7 @@ let userEmail;
 const id = Symbol('123')
 const id2 = Symbol('123')
 
-// console.log(id == id2);
+console.log(id == id2);
 
 const largeNumber = 3169824941986294924837713n
 
@@ -28,22 +28,22 @@ let myObj = {
     age: 20
 }
 
-// const myFunc = function(){
-//     console.log("Hello World");
-// }
+const myFunc = function(){
+    console.log("Hello World");
+}
 
-// console.log(typeof largeNumber);
-// console.log(typeof myFunc);
-// console.log(typeof id2);
+console.log(typeof largeNumber);
+console.log(typeof myFunc);
+console.log(typeof id2);
 
-// console.table([score, score2, id, id2, largeNumber])
+console.table([score, score2, id, id2, largeNumber])
 
 //Stack (Primitive) and Heap(Non-Primitve)
-// let name = "HelloCode"
-// let name2 = name
-// name2 = "HelloAgainCode"
-// console.log(name);
-// console.log(name2);
+let name = "HelloCode"
+let name2 = name
+name2 = "HelloAgainCode"
+console.log(name);
+console.log(name2);
 
 let user1 = {
     email: "ashmit@gmail.com",
