@@ -1,61 +1,38 @@
-* {
-  box-sizing: border-box;
-}
+Employer responsibilities
 
-body {
-  margin: 0;
-  font-family: system-ui, sans-serif;
-  color: black;
-  background-color: white;
-}
+Provide a safe and healthy work environment. This includes identifying and mitigating hazards, providing adequate training on safety procedures, and maintaining equipment in good condition.
+Comply with all applicable safety regulations. This includes federal, state, and local laws and regulations.
+Develop a safety culture within the organization. This means creating an environment where everyone is committed to safety and feels comfortable speaking up about safety concerns.
+Empower employees to make decisions about safety. Employees are often the first to see potential hazards, so it is important to give them the authority to take action to address them.
+Hold employees accountable for their safety performance. This does not mean punishing employees for making mistakes, but it does mean ensuring that they are taking all reasonable steps to stay safe.
+Employee responsibilities
 
-nav {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  padding: 0.5rem;
-  gap: 0.5rem;
-  border-bottom: solid 1px #aaa;
-  background-color: #eee;
-}
+Follow all safety procedures. This includes wearing personal protective equipment, using equipment properly, and reporting any unsafe conditions or practices to a supervisor.
+Be aware of the risks associated with your job and take steps to mitigate those risks. This includes getting proper training and using common sense.
+Look out for the safety of your colleagues and avoid taking any actions that could put others at risk. This includes reporting unsafe conditions or practices to a supervisor and intervening if you see someone doing something unsafe.
+Be honest and transparent with your employer about any health or safety concerns you have. This is important so that your employer can take steps to address your concerns.
+Professional ethics
 
-nav a {
-  display: inline-block;
-  min-width: 9rem;
-  padding: 0.5rem;
-  border-radius: 0.2rem;
-  border: solid 1px rgb(22, 22, 22);
-  text-align: center;
-  text-decoration: none;
-  color: #1b1b1b;
-}
+Professional ethics are the moral principles that guide our behavior in our professional lives. They are essential for maintaining a safe and healthy workplace for everyone involved.
 
-nav a[aria-current='page'] {
-  color: #000;
-  background-color: #d4d4d4;
-}
+Some of the most important professional ethics that apply to workplace safety include:
 
-main {
-  padding: 1rem;
-}
+Beneficence: Doing good for others. This means that employers have a responsibility to provide their employees with a safe and healthy work environment, and that employees have a responsibility to look out for the safety of their colleagues.
+Non-maleficence: Avoiding harm to others. This means that employers have a responsibility to identify and mitigate hazards in the workplace, and that employees have a responsibility to follow safety procedures and to report any unsafe conditions to their supervisor.
+Honesty and transparency: Being honest and transparent in all of our dealings with others. This means that employers should be honest with their employees about the risks associated with their jobs, and that employees should be honest with their employers about any health or safety concerns they have.
+Fairness and justice: Treating others with respect, regardless of their position or level of experience. This means that employers should treat all of their employees with respect, and that employees should not be afraid to speak up about safety concerns, even if they fear that it might reflect poorly on them.
+When professional ethics are upheld in the workplace, everyone benefits. Employees are more likely to be productive and engaged when they feel safe and valued. Employers reduce their risk of lawsuits and accidents, and they create a positive reputation for their company.
 
-h1 {
-  font-weight: bold;
-  font-size: 1.5rem;
-}
+Examples of how professional ethics can be applied to workplace safety:
 
-.projects {
-  display: flex;
-  flex-direction: column;
-}
-
-.project-link {
-  background-color: #fff;
-  padding: 10px 30px;
-  border-radius: 8px;
-  color: #212121;
-  text-decoration: none;
-  border: 2px solid #212121;
-  margin-top: 5px;
-}
+Employer:
+Provides employees with adequate training on safety procedures, including training on how to identify and report hazards.
+Regularly inspects the workplace for hazards and takes steps to mitigate them.
+Encourages employees to report any unsafe conditions or practices.
+Treats all employees with respect, regardless of their position or level of experience.
+Employee:
+Follows all safety procedures and reports any unsafe conditions or practices to their supervisor.
+Is aware of the risks associated with their job and takes steps to mitigate those risks.
+Looks out for the safety of their colleagues and warns them of any potential hazards.
+Is honest and transparent with their employer about any health or safety concerns they have.
+By upholding professional ethics in the workplace, we can create a safer and healthier environment for everyone.
