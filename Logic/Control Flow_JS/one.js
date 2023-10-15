@@ -5,7 +5,7 @@
 // }//condition can be true ot false
 
 //Comparison operators  < , > , <= , >= , == , != , === yeh type bhi check karta hai values ke saath saath
-// !== data type ke saath not eual check karta hai
+// !== data type ke saath not equal check karta hai
 
 // if(2 == "2") {
 //     console.log("Executed 1");
