@@ -17,7 +17,7 @@ let booleanIsLoggedIn = Boolean(isloggedIn)
 console.log(booleanIsLoggedIn);
 
 //1 -> true 0 -> false
-//"" -> fasle
+//"" -> false
 //"ashmit" -> true
 
 let someNum = 21010307
@@ -33,7 +33,7 @@ let negValue = -value
 console.log(2 + 2);
 console.log(2 - 2);
 console.log(2 * 2);
-console.log(2 ** 2);//trated as 2^2
+console.log(2 ** 2);//treated as 2^2
 console.log(4 / 3);
 console.log(2 % 3);
 

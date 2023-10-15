@@ -26,7 +26,7 @@ arr2.push(8)
 
 //slice, splice operations
 console.log("A", arr2);
-const myn1 = arr2.slice(1, 3);//0 index se lekar 3-1th index tak substr jaisa hai (startindex, length)
+const myn1 = arr2.slice(1, 3);//substr jaisa hai (startindex, length)
 console.log(myn1);
 console.log("B", arr2);
 

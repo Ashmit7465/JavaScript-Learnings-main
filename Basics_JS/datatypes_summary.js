@@ -1,5 +1,5 @@
 //Primitive
-//7 types : String, Number, null, defined, symbol, bigInt, Boolean
+//7 types : String, Number, null, undefined, symbol, bigInt, Boolean
 
 //Non-Primitive : Reference data types
 //Array, Objects, Functions
@@ -32,9 +32,9 @@ const myFunc = function(){
     console.log("Hello World");
 }
 
-console.log(typeof largeNumber);
-console.log(typeof myFunc);
-console.log(typeof id2);
+console.log(typeof largeNumber);//bigint
+console.log(typeof myFunc);//function
+console.log(typeof id2);//symbol
 
 console.table([score, score2, id, id2, largeNumber])
 
